@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Robert Jordan
+- Brandon Sanderson
+- Terry Brooks
+- Ryan Holiday
+- Marcus Aurelius
