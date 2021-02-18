@@ -1,0 +1,5 @@
+- Robert Jordan
+- Brandon Sanderson
+- Terry Brooks
+- Ryan Holiday
+- Marcus Aurelius
